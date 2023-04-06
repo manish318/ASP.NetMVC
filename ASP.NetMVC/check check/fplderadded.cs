@@ -7,5 +7,6 @@ namespace ASP.NetMVC.check_check
 {
     public class fplderadded
     {
+        Console.WriteLine(" git push nai vayana");
     }
 }
