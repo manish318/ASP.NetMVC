@@ -5,11 +5,11 @@ using System.Web;
 
 namespace ASP.NetMVC.check_check
 {
-    public class fplderadded
+    public class abcd
     {
         public static void main()
         {
-            Console.WriteLine("git push nai vayana");
+            Console.WriteLine("abcd");
         }
     }
 }
